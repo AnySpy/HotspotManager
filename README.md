@@ -7,12 +7,16 @@ To set up, download the file, place it in a directory, and then use Task Schedul
 
 ## Settings
 Settings are stored in a JSON file in
+
 > %LOCALAPPDATA%\HotspotManager.Settings.json
+
 They can be changed there or by right clicking the icon in the tray and selecting "Settings"
 
 ## Logging
 Logs are stored in
+
 > %TEMP%\HotspotManager.log
+
 It only logs errors and when the hotspot is started by the script right now.
 
 ## For Credit:
