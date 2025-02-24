@@ -19,5 +19,8 @@ Logs are stored in
 
 It only logs errors and when the hotspot is started by the script right now.
 
+## Future updates:
+I want to be able to distribute this as an exe and create/run the task from there. I don't think it'll be too hard, so hopefully that update is soon!
+
 ## For Credit:
 This is using **A LOT** of code found online. I can't find the exact snippets I used, so if I used yours and you would like to be credited here, please reach out to me!~
